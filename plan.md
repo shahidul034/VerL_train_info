@@ -1,6 +1,4 @@
-Here is a **clear step-by-step checklist** so you can systematically finish the experiments and paper. I organized it into **6 phases**: Baselines → Test-time methods → Ablation → Multilingual → Model sizes → Human evaluation → Final paper.
 
----
 
 # Research Paper Experiment Checklist
 
